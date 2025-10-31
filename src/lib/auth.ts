@@ -13,6 +13,7 @@ export const auth = betterAuth({
     "http://localhost:3001",
     // keep production origin
     "https://meetai-db9fpryvy-pathtoresilience.vercel.app",
+    "https://meet.pathtoresilience.dev",
   ],
   plugins: [
     polar({
